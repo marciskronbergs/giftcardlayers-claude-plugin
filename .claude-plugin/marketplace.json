@@ -1,0 +1,17 @@
+{
+  "name": "giftcardlayers",
+  "description": "The GiftcardLayers plugin: sell your own gift cards with Claude.",
+  "owner": {
+    "name": "GiftcardLayers",
+    "email": "support@giftcardlayers.com",
+    "url": "https://giftcardlayers.com"
+  },
+  "plugins": [
+    {
+      "name": "giftcardlayers",
+      "source": "./",
+      "description": "Set up, design and run your business's gift card shop in GiftcardLayers.",
+      "category": "commerce"
+    }
+  ]
+}

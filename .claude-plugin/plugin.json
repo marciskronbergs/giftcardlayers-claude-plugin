@@ -1,0 +1,26 @@
+{
+  "name": "giftcardlayers",
+  "displayName": "GiftcardLayers",
+  "version": "1.0.0",
+  "description": "Set up, design and run your business's gift card shop in GiftcardLayers.",
+  "author": {
+    "name": "GiftcardLayers",
+    "email": "support@giftcardlayers.com",
+    "url": "https://giftcardlayers.com"
+  },
+  "license": "MIT",
+  "homepage": "https://giftcardlayers.com/claude-gift-card-mcp",
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://giftcardlayers.com/claude-gift-card-mcp",
+  "supportUrl": "https://giftcardlayers.com/contact",
+  "privacyPolicyUrl": "https://giftcardlayers.com/privacy",
+  "termsOfServiceUrl": "https://giftcardlayers.com/legal",
+  "keywords": [
+    "gift-cards",
+    "vouchers",
+    "spa",
+    "hotel",
+    "restaurant",
+    "small-business"
+  ]
+}
